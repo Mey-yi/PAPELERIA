@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">PAPELERIA</string>
+    <string name="app_name">PapeApp</string>
+    <string name="titulo_login">Bienvenido a PapeApp</string>
+    <string name="boton_huella">Ingresar con huella</string>
+    <string name="subtitulo_login">Coloca tu dedo en el sensor</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="mensaje_inicial">Autentícate para continuar</string>
+    <string name="error_sin_sensor">Este dispositivo no tiene sensor de huella</string>
+    <string name="error_sin_huella">No hay huellas registradas. Agrega una en Ajustes del teléfono</string>
+    <string name="error_sensor_no_disponible">El sensor no está disponible por ahora</string>
+    <string name="error_huella_no_reconocida">Huella no reconocida, inténtalo de nuevo</string>
+    <string name="error_cancelado">Autenticación cancelada</string>
+    <string name="error_bloqueo">Demasiados intentos fallidos. Espera unos segundos e inténtalo de nuevo</string>
+    <string name="bienvenida_inicio">Sesión iniciada correctamente</string>
 </resources>
